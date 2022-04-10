@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Player2
+  - WTE
+  - Box
+  - FlyBot
   layers:
   - Default
   - TransparentFX
@@ -14,10 +19,10 @@ TagManager:
   - 
   - 
   - Camera
-  - 
-  - 
-  - 
-  - 
+  - wire
+  - Player1
+  - Wire Intesection
+  - Door
   - 
   - 
   - 
